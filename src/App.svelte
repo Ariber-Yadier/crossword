@@ -119,7 +119,7 @@
   }
 
   .pancasila {
-    width: 22vw;
+    width: 30vw;
     margin: auto;
   }
 </style>
