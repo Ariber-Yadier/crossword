@@ -3,6 +3,13 @@
 
   const data = [
     {
+      clue: "Nama orang yang pintar",
+      answer: "ANDREA",
+      direction: "across",
+      x: 0,
+      y: 3,
+    },
+    {
       clue: "Nama orang yang gila",
       answer: "AKBAR",
       direction: "down",
@@ -10,11 +17,11 @@
       y: 0,
     },
     {
-      clue: "Nama orang yang pintar",
-      answer: "ANDREA",
-      direction: "across",
-      x: 0,
-      y: 3,
+      clue: "Nama orang yang gay",
+      answer: "UBAY",
+      direction: "down",
+      x: 5,
+      y: 1,
     },
   ];
 </script>
