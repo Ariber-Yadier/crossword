@@ -89,7 +89,10 @@
     <img src="pancasila.png" alt="Lambang Pancasila" class="pancasila" />
   </div>
   <Crossword {data} actions="[]" autofocus>
-    <div slot="message">Kamu menang!</div>
+    <div slot="message" class="message">
+      Kamu menang!
+      <img src="cat-jump.gif" alt="Kucing Loncat" class="cat" />
+    </div>
   </Crossword>
 </main>
 
@@ -116,5 +119,14 @@
   .pancasila {
     width: 30vw;
     margin: auto;
+  }
+
+  .message {
+    display: flex;
+    flex-flow: column;
+  }
+
+  .cat {
+    margin-top: 0.4rem;
   }
 </style>
