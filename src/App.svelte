@@ -79,6 +79,13 @@
       x: 14,
       y: 4,
     },
+    {
+      clue: "Sebutan untuk Soekarno",
+      answer: "BUNG",
+      direction: "across",
+      x: 12,
+      y: 9,
+    },
   ];
 </script>
 
