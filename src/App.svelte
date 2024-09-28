@@ -85,10 +85,10 @@
 <main>
   <div class="pancasila-wrapper">
     <h1 class="title">Teka-Teki Silang Pancasila</h1>
-    <p class="desc">Oleh: Andrea Hendrian Saleh</p>
+    <p class="desc">Oleh: Andrea, Ubay, dan Akbar</p>
     <img src="pancasila.png" alt="Lambang Pancasila" class="pancasila" />
   </div>
-  <Crossword {data} actions="[]">
+  <Crossword {data} actions="[]" autofocus>
     <div slot="message">Kamu menang!</div>
   </Crossword>
 </main>
