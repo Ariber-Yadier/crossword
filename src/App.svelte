@@ -31,13 +31,6 @@
       y: 6,
     },
     {
-      clue: "Pancasila dijadikan sebagai ...",
-      answer: "PEDOMAN",
-      direction: "across",
-      x: 4,
-      y: 1,
-    },
-    {
       clue: "Bulan kemerdekaan Indonesia",
       answer: "AGUSTUS",
       direction: "down",
