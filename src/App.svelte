@@ -88,7 +88,9 @@
     <p class="desc">Oleh: Andrea Hendrian Saleh</p>
     <img src="pancasila.png" alt="Lambang Pancasila" class="pancasila" />
   </div>
-  <Crossword {data} actions="['reveal']" />
+  <Crossword {data} actions="[]">
+    <div slot="message">Kamu menang!</div>
+  </Crossword>
 </main>
 
 <style>
